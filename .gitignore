@@ -1,0 +1,24 @@
+# Environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Large files
+models/*.pkl
+data/*.csv
+
+# Logs
+*.log
