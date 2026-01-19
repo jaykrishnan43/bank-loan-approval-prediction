@@ -17,7 +17,7 @@ Thumbs.db
 .streamlit/
 
 # Large files
-models/*.pkl
+# models/*.pkl
 data/*.csv
 
 # Logs
